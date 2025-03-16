@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Elements",
+  "version": "1.0",
+  "description": "Hide elements on webpage using CSS selectors",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
