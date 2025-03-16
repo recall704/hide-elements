@@ -3,7 +3,7 @@
   "name": "Hide Elements",
   "version": "1.0",
   "description": "Hide elements on webpage using CSS selectors",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting", "storage"],
   "action": {
     "default_popup": "popup.html"
   }
